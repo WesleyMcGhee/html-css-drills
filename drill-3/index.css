@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+#header {
+  width: 100vw;
+  height: 12vh;
+  background-color: rgb(165, 165, 165);
+  display: flex;
+}
+#content {
+  width: 100vw;
+  height: 40vh;
+  display: flex;
+}
+#top-footer {
+  width: 100vw;
+  height: 12vh;
+  background-color: rgb(84, 132, 221);
+}
+#top-middle-footer {
+  width: 100vw;
+  height: 12vh;
+  background-color: rgb(92, 170, 133);
+}
+#bottom-middle-footer {
+  width: 100vw;
+  height: 12vh;
+  background-color: rgb(92, 226, 121);
+}
+#bottom-footer {
+  width: 100vw;
+  height: 12vh;
+  background-color: rgb(150, 243, 28);
+}
+#little-square {
+  height: 9vh;
+  width: 9vh;
+  background-color: rgb(113, 113, 173);
+  margin-top: 1.5vh;
+  margin-left: 1.5vh;
+}
+#para {
+  font-size: 2.5em;
+  margin-top: 3vw;
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
